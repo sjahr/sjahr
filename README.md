@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+My name is Sebastian Jahr. I´m a robotics engineer at [PickNik Robotics](https://picknik.ai/) and [MoveIt](https://moveit.ros.org/) maintainer.
 
 <!--
 **sjahr/sjahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
